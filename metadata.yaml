@@ -20,6 +20,8 @@ creator:
     gutenberg_agent_id: '25455'
     url: http://www.gutenberg.org/2009/agents/25455
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/22630#Der-Roman-eines-geborenen-VerbrechersSelbstbiographie-des-Strafgefangenen-Antonino-M...
 gutenberg_bookshelf: DE Prosa
 gutenberg_issued: '2007-09-16'
 gutenberg_type: Text
