@@ -1,0 +1,40 @@
+_repo: Der-Roman-eines-geborenen-VerbrechersSelbstbiographie-des-Strafgefangenen-Antonino-M..._22630
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Ramhorst, Friedrich Wilhelm
+    birthdate: 1863
+    gutenberg_agent_id: '25456'
+    url: http://www.gutenberg.org/2009/agents/25456
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: M., Antonino
+    gutenberg_agent_id: '25457'
+    url: http://www.gutenberg.org/2009/agents/25457
+  editor:
+    agent_name: Bianchi, Augusto Guido
+    birthdate: 1868
+    gutenberg_agent_id: '25455'
+    url: http://www.gutenberg.org/2009/agents/25455
+description: ''
+gutenberg_bookshelf: DE Prosa
+gutenberg_issued: '2007-09-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22630'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Autobiographies'
+- !lcsh 'Criminals -- Biography'
+- !lcsh 'Psychology'
+- !lcc 'CT'
+title: 'Der Roman eines geborenen Verbrechers
+
+  Selbstbiographie des Strafgefangenen Antonino M...'
+url: http://www.gutenberg.org/ebooks/22630
